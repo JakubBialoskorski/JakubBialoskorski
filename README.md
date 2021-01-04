@@ -10,6 +10,7 @@
 | ![Terraform](assets/icons/terraform.png) Terraform | ![C++](assets/icons/c++.png)++            |                                        |
 | ![Jenkins](assets/icons/jenkins.png) Jenkins       | ![HCL](assets/icons/hcl.png) HCL          |                                        |
 | ![nginx](assets/icons/nginx.png)                   | ![Bash](assets/icons/bash.png) Bash       |                                        |
+| ![Redis](assets/icons/redis.png) Redis             |                                           |                                        |
 | ![git](assets/icons/git.png) git                   |                                           |                                        |
 
 * **Clouds**: ![AWS](assets/icons/aws.png) + ![Digital Ocean](assets/icons/digitalocean.png)
@@ -23,5 +24,5 @@
 ### Few of my projects
 * [Notes app made in Flask](https://github.com/JakubBialoskorski/notty) with Aurora support
 * [iOS music app for kids](https://apps.apple.com/app/id1544977962#?platform=iphone),  compatible with M1 Macs
-* [Traffic jam avoidance](https://github.com/JakubBialoskorski/traffic.git) repo, easily rewrittable to Lambda + Twilio, that can ping you BEFORE you're struck for hours
+* [Traffic jam avoidance](https://github.com/JakubBialoskorski/traffic.git) repo, with Lambda + Twilio support that can ping you BEFORE you're struck for hours
 * [Scripts](https://github.com/JakubBialoskorski/ZeroSeg) for MAX7219CNG [ZeroSeg display](https://github.com/AverageMaker/ZeroSeg)
