@@ -18,7 +18,7 @@
 * **Monitoring**: ![Grafana](assets/icons/grafana.png) Grafana, ![DataDog](assets/icons/datadog.png) DataDog, ![PagerDuty](assets/icons/pagerduty.png)agerDuty
 * **IDE**: ![XCode](assets/icons/xcode.png) XCode, ![Intellij IDEA](assets/icons/intellijidea.png) IntelliJ IDEA, ![Intellij PyCharm](assets/icons/intellijpycharm.png) PyCharm
 * **Networking**: ![CISCO](assets/icons/cisco.png), ![Meraki](assets/icons/meraki.png), ![UniFi](assets/icons/unifi.png)niFi
-* **Bonus stack**: LDAP, JAMF, Snyk, JIRA + Confluence (as admin), HPSM, SAP, Oracle, STRATUS, MIR3, Lotus Notes, DameWare
+* **Bonus stack**: ![LDAP](assets/icons/ldap.png) LDAP, ![JAMF](assets/icons/jamf.png) JAMF, ![Snyk](assets/icons/snyk.png) Snyk, ![JIRA](assets/icons/jira.png) JIRA + ![Confluence](assets/icons/confluence.png) Confluence (as admin), ![HPSM](assets/icons/hpsm.png) HPSM, ![SAP](assets/icons/sap.png) SAP, ![Oracle](assets/icons/oracle.png) Oracle, ![MIR3](assets/icons/mir3.png) MIR3, ![Lotus Notes](assets/icons/lotusnotes.png) Lotus Notes, ![DameWare](assets/icons/dameware.png) DameWare, STRATUS
 
 ### Few of my projects
 * [Notes app made in Flask](https://github.com/JakubBialoskorski/notty) with Aurora support
