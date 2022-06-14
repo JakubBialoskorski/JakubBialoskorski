@@ -11,6 +11,7 @@
 | ![Jenkins](assets/icons/jenkins.png) Jenkins       | ![Bash](assets/icons/bash.png) Bash       |                                        |
 | ![nginx](assets/icons/nginx.png)                   |                                           |                                        |
 | ![Redis](assets/icons/redis.png) Redis             |                                           |                                        |
+| ![git](assets/icons/istio.png) Istio               |                                           |                                        |
 | ![git](assets/icons/git.png) git                   |                                           |                                        |
 
 * **Clouds**: ![AWS](assets/icons/aws.png) + ![Digital Ocean](assets/icons/digitalocean.png)
