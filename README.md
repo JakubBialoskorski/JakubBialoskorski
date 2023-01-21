@@ -2,17 +2,17 @@
 
 ### Few facts about me:
 
-| DevOps                                             | Programmer                                | Developer                              |
-|----------------------------------------------------|-------------------------------------------|----------------------------------------|
-| ![Docker](assets/icons/docker.png) Docker          | ![Python](assets/icons/python.png) Python | ![Flask](assets/icons/flask.png) Flask |
-| ![K8S](assets/icons/kubernetes.png) K8S            | ![Swift](assets/icons/swift.png) Swift    | ![Unity](assets/icons/unity.png) Unity |
-| ![Ansible](assets/icons/ansible.png)nsible         | ![Golang](assets/icons/go.png) Go         |                                        |
-| ![Terraform](assets/icons/terraform.png) Terraform | ![HCL](assets/icons/hcl.png) HCL          |                                        |
-| ![Jenkins](assets/icons/jenkins.png) Jenkins       | ![Bash](assets/icons/bash.png) Bash       |                                        |
-| ![nginx](assets/icons/nginx.png)                   |                                           |                                        |
-| ![Redis](assets/icons/redis.png) Redis             |                                           |                                        |
-| ![git](assets/icons/istio.png) Istio               |                                           |                                        |
-| ![git](assets/icons/git.png) git                   |                                           |                                        |
+| DevOps                                                                                                                             | Programmer                                | Developer                              |
+|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|----------------------------------------|
+| ![Docker](assets/icons/docker.png) Docker                                                                                          | ![Python](assets/icons/python.png) Python | ![Flask](assets/icons/flask.png) Flask |
+| ![K8S](assets/icons/kubernetes.png) K8S                                                                                            | ![Swift](assets/icons/swift.png) Swift    | ![Unity](assets/icons/unity.png) Unity |
+| ![Ansible](assets/icons/ansible.png)nsible                                                                                         | ![Golang](assets/icons/go.png) Go         |                                        |
+| ![Terraform](assets/icons/terraform.png) Terraform                                                                                 | ![HCL](assets/icons/hcl.png) HCL          |                                        |
+| ![Jenkins](assets/icons/jenkins.png) Jenkins                                                                                       | ![Bash](assets/icons/bash.png) Bash       |                                        |
+| ![nginx](assets/icons/nginx.png)                                                                                                   |                                           |                                        |
+| ![Redis](assets/icons/redis.png) Redis                                                                                             |                                           |                                        |
+| ![git](assets/icons/istio.png) [Istio Intermediate](https://www.credly.com/badges/96005f5b-8e07-4ef8-a178-eba364a99ee0/public_url) |                                           |                                        |
+| ![git](assets/icons/git.png) git                                                                                                   |                                           |                                        |
 
 * **Clouds**: ![AWS](assets/icons/aws.png) + ![Digital Ocean](assets/icons/digitalocean.png)
 * **Distros**: ![Ubuntu](assets/icons/ubuntu.png) Ubuntu, ![Debian](assets/icons/debian.png) Debian, ![AWS Linux](assets/icons/awslinux.png) AWS Linux, ![Kali](assets/icons/kali.png) Kali, ![pfSense](assets/icons/pfsense.png) , ![VyOS](assets/icons/vyos.png)
