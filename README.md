@@ -27,5 +27,5 @@
 * [iOS music app for kids](https://apps.apple.com/app/id1544977962#?platform=iphone),  compatible with Apple Silicon chips
 * [Traffic jam avoidance](https://github.com/JakubBialoskorski/traffic.git) repo, with Lambda + Twilio support that can ping you BEFORE you're struck for hours
 * [OpenAI DALL-E 2 image generator](https://github.com/JakubBialoskorski/dalle-api) written in JavaScript
-* [Portfolio page](https://bialoskorski.eu) made in Next.js + TailwindCSS
+* [Portfolio page](https://github.com/JakubBialoskorski/bialoskorski-eu) made in Next.js + TailwindCSS
 * [Scripts](https://github.com/JakubBialoskorski/ZeroSeg) for MAX7219CNG [ZeroSeg display](https://github.com/AverageMaker/ZeroSeg)
