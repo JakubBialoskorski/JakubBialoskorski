@@ -2,17 +2,17 @@
 
 ### Few facts about me:
 
-| DevOps                                                                                                                             | Programmer                                | Developer                                   |
-|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|---------------------------------------------|
-| ![Docker](assets/icons/docker.png) Docker                                                                                          | ![Python](assets/icons/python.png) Python | ![Flask](assets/icons/flask.png) Flask      |
-| ![K8S](assets/icons/kubernetes.png) K8S                                                                                            | ![Swift](assets/icons/swift.png) Swift    | ![Next.js](assets/icons/nextjs.png) Next.js |
-| ![Ansible](assets/icons/ansible.png)nsible                                                                                         | ![Golang](assets/icons/go.png) Go         | ![Unity](assets/icons/unity.png) Unity      |
-| ![Terraform](assets/icons/terraform.png) Terraform                                                                                 | ![HCL](assets/icons/hcl.png) HCL          |                                             |
-| ![Jenkins](assets/icons/jenkins.png) Jenkins                                                                                       | ![Bash](assets/icons/bash.png) Bash       |                                             |
-| ![nginx](assets/icons/nginx.png)                                                                                                   |                                           |                                             |
-| ![Redis](assets/icons/redis.png) Redis                                                                                             |                                           |                                             |
-| ![git](assets/icons/istio.png) [Istio Intermediate](https://www.credly.com/badges/96005f5b-8e07-4ef8-a178-eba364a99ee0/public_url) |                                           |                                             |
-| ![git](assets/icons/git.png) git                                                                                                   |                                           |                                             |
+| DevOps                                                                                                                             | Programmer                                | Developer                              |
+|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|----------------------------------------|
+| ![Docker](assets/icons/docker.png) Docker                                                                                          | ![Python](assets/icons/python.png) Python | ![Flask](assets/icons/flask.png) Flask |
+| ![K8S](assets/icons/kubernetes.png) K8S                                                                                            | ![Swift](assets/icons/swift.png) Swift    | ![Next.js](assets/icons/nextjs.png) js |
+| ![Ansible](assets/icons/ansible.png)nsible                                                                                         | ![Golang](assets/icons/go.png) Go         | ![Unity](assets/icons/unity.png) Unity |
+| ![Terraform](assets/icons/terraform.png) Terraform                                                                                 | ![HCL](assets/icons/hcl.png) HCL          |                                        |
+| ![Jenkins](assets/icons/jenkins.png) Jenkins                                                                                       | ![Bash](assets/icons/bash.png) Bash       |                                        |
+| ![nginx](assets/icons/nginx.png)                                                                                                   |                                           |                                        |
+| ![Redis](assets/icons/redis.png) Redis                                                                                             |                                           |                                        |
+| ![git](assets/icons/istio.png) [Istio Intermediate](https://www.credly.com/badges/96005f5b-8e07-4ef8-a178-eba364a99ee0/public_url) |                                           |                                        |
+| ![git](assets/icons/git.png) git                                                                                                   |                                           |                                        |
 
 * **Clouds**: ![AWS](assets/icons/aws.png) + ![Digital Ocean](assets/icons/digitalocean.png)
 * **Distros**: ![Ubuntu](assets/icons/ubuntu.png) Ubuntu, ![Debian](assets/icons/debian.png) Debian, ![AWS Linux](assets/icons/awslinux.png) AWS Linux, ![Kali](assets/icons/kali.png) Kali, ![pfSense](assets/icons/pfsense.png) , ![VyOS](assets/icons/vyos.png)
@@ -25,7 +25,7 @@
 ### Few of my projects
 * [Notes app made in Flask](https://github.com/JakubBialoskorski/notty) with Aurora support
 * [iOS music app for kids](https://apps.apple.com/app/id1544977962#?platform=iphone),  compatible with Apple Silicon chips
-* [Traffic jam avoidance](https://github.com/JakubBialoskorski/traffic.git) repo, with Lambda + Twilio support that can ping you BEFORE you're struck for hours
+* [Traffic jam avoidance](https://github.com/JakubBialoskorski/traffic.git) repo, with Lambda + Twilio support that can ping you before you're struck for hours
 * [OpenAI DALL-E 2 image generator](https://github.com/JakubBialoskorski/dalle-api) written in JavaScript
 * [Portfolio page](https://github.com/JakubBialoskorski/bialoskorski-eu) made in Next.js + TailwindCSS
 * [Scripts](https://github.com/JakubBialoskorski/ZeroSeg) for MAX7219CNG [ZeroSeg display](https://github.com/AverageMaker/ZeroSeg)
