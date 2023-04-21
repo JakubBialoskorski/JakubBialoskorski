@@ -2,21 +2,21 @@
 
 ### Few facts about me:
 
-| DevOps                                                                                                                             | Programmer                                | Developer                              |
-|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|----------------------------------------|
-| ![Docker](assets/icons/docker.png) Docker                                                                                          | ![Python](assets/icons/python.png) Python | ![Flask](assets/icons/flask.png) Flask |
-| ![K8S](assets/icons/kubernetes.png) K8S                                                                                            | ![Swift](assets/icons/swift.png) Swift    | ![Next.js](assets/icons/nextjs.png) js |
-| ![Ansible](assets/icons/ansible.png)nsible                                                                                         | ![Golang](assets/icons/go.png) Go         | ![Unity](assets/icons/unity.png) Unity |
-| ![Terraform](assets/icons/terraform.png) Terraform                                                                                 | ![HCL](assets/icons/hcl.png) HCL          |                                        |
-| ![Jenkins](assets/icons/jenkins.png) Jenkins                                                                                       | ![Bash](assets/icons/bash.png) Bash       |                                        |
-| ![nginx](assets/icons/nginx.png)                                                                                                   |                                           |                                        |
-| ![Redis](assets/icons/redis.png) Redis                                                                                             |                                           |                                        |
-| ![git](assets/icons/istio.png) [Istio Intermediate](https://www.credly.com/badges/96005f5b-8e07-4ef8-a178-eba364a99ee0/public_url) |                                           |                                        |
-| ![git](assets/icons/git.png) git                                                                                                   |                                           |                                        |
+| DevOps                                                                                                                             | Programmer                                               | Developer                              |
+|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------|
+| ![Docker](assets/icons/docker.png) Docker                                                                                          | ![Python](assets/icons/python.png) Python                | ![Flask](assets/icons/flask.png) Flask |
+| ![K8S](assets/icons/kubernetes.png) K8S                                                                                            | ![Javascript](assets/icons/javascript.png) Javascript    | ![Next.js](assets/icons/nextjs.png) js |
+| ![Ansible](assets/icons/ansible.png)nsible                                                                                         | ![Swift](assets/icons/swift.png) Swift                   | ![Unity](assets/icons/unity.png) Unity |
+| ![Terraform](assets/icons/terraform.png) Terraform                                                                                 | ![Go](assets/icons/go.png) Go                            |                                        |
+| ![Jenkins](assets/icons/jenkins.png) Jenkins                                                                                       | ![HCL](assets/icons/hcl.png) HCL                         |                                        |
+| ![nginx](assets/icons/nginx.png)                                                                                                   | ![Bash](assets/icons/bash.png) Bash                      |                                        |
+| ![Redis](assets/icons/redis.png) Redis                                                                                             |                                                          |                                        |
+| ![git](assets/icons/istio.png) [Istio Intermediate](https://www.credly.com/badges/96005f5b-8e07-4ef8-a178-eba364a99ee0/public_url) |                                                          |                                        |
+| ![git](assets/icons/git.png) git                                                                                                   |                                                          |                                        |
 
 * **Clouds**: ![AWS](assets/icons/aws.png) + ![Digital Ocean](assets/icons/digitalocean.png)
 * **Distros**: ![Ubuntu](assets/icons/ubuntu.png) Ubuntu, ![Debian](assets/icons/debian.png) Debian, ![AWS Linux](assets/icons/awslinux.png) AWS Linux, ![Kali](assets/icons/kali.png) Kali, ![pfSense](assets/icons/pfsense.png) , ![VyOS](assets/icons/vyos.png)
-* **Databases**: ![MySQL](assets/icons/mysql.png) MySQL, ![Aurora](assets/icons/aurora.png) Aurora, ![SQLite](assets/icons/sqlite.png) SQLite, ![MongoDB](assets/icons/mongodb.png) MongoDB
+* **Databases**: ![MySQL](assets/icons/mysql.png) MySQL, ![Aurora](assets/icons/aurora.png) Aurora, ![SQLite](assets/icons/sqlite.png) SQLite, ![MongoDB](assets/icons/mongodb.png) MongoDB, ![ElasticSearch](assets/icons/elasticsearch.png) ElasticSearch
 * **Monitoring**: ![Grafana](assets/icons/grafana.png) Grafana, ![DataDog](assets/icons/datadog.png) DataDog, ![New Relic](assets/icons/newrelic.png) New Relic ,![PagerDuty](assets/icons/pagerduty.png)agerDuty
 * **IDE**: ![XCode](assets/icons/xcode.png) XCode, ![Intellij IDEA](assets/icons/intellijidea.png) IntelliJ IDEA, ![Intellij PyCharm](assets/icons/intellijpycharm.png) PyCharm
 * **Networking**: ![CISCO](assets/icons/cisco.png), ![Meraki](assets/icons/meraki.png), ![UniFi](assets/icons/unifi.png)niFi
