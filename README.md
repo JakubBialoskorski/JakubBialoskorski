@@ -24,7 +24,8 @@
 
 ### Few of my projects
 * [Notes app made in Flask](https://github.com/JakubBialoskorski/notty) with Aurora support
-* [iOS music app for kids](https://apps.apple.com/app/id1544977962#?platform=iphone),  compatible with Apple Silicon chips
+* [Music app for kids](https://apps.apple.com/us/app/dot-xylophone/id1544977962), compatible with Apple Silicon chips
+* Minimalistic [velocity measurement](https://apps.apple.com/us/app/minspeed/id6470914321) for iOS
 * [Traffic jam avoidance](https://github.com/JakubBialoskorski/traffic.git) repo, with Lambda + Twilio support that can ping you before you're struck for hours
 * [OpenAI DALL-E 2 image generator](https://github.com/JakubBialoskorski/dalle-api) written in JavaScript
 * [Portfolio page](https://github.com/JakubBialoskorski/bialoskorski-eu) made in Next.js + TailwindCSS
