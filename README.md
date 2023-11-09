@@ -28,6 +28,6 @@
 * Minimalistic [velocity measurement](https://apps.apple.com/us/app/minspeed/id6470914321) for iOS
 * [Traffic jam avoidance](https://github.com/JakubBialoskorski/traffic.git) repo, with Lambda + Twilio support that can ping you before you're struck for hours
 * [OpenAI DALL-E 2 image generator](https://github.com/JakubBialoskorski/dalle-api) written in JavaScript
-* [Portfolio page](https://github.com/JakubBialoskorski/bialoskorski-eu) made in Next.js + TailwindCSS
+* [Portfolio page](https://github.com/JakubBialoskorski/bialoskorski-eu) made in Next.js
 * [Enviro+ to InfluxDB connector](https://github.com/JakubBialoskorski/enviro) to display sensor data in Grafana
 * [Scripts](https://github.com/JakubBialoskorski/ZeroSeg) for MAX7219CNG [ZeroSeg display](https://github.com/AverageMaker/ZeroSeg)
