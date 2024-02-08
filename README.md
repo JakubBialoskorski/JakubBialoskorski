@@ -23,6 +23,7 @@
 * **Bonus stack**: ![LDAP](assets/icons/ldap.png) LDAP, ![JAMF](assets/icons/jamf.png) JAMF, ![Snyk](assets/icons/snyk.png) Snyk, ![JIRA](assets/icons/jira.png) JIRA + ![Confluence](assets/icons/confluence.png) Confluence (as admin), ![HPSM](assets/icons/hpsm.png) HPSM, ![SAP](assets/icons/sap.png) SAP, ![Oracle](assets/icons/oracle.png) Oracle, ![MIR3](assets/icons/mir3.png) MIR3, ![Lotus Notes](assets/icons/lotusnotes.png) Lotus Notes, ![DameWare](assets/icons/dameware.png) DameWare, STRATUS
 
 ### Few of my projects
+* [Terraform module for AWS VPC](https://registry.terraform.io/modules/JakubBialoskorski/vpc/aws/latest) for dedicated staging environment in public subnets
 * [Notes app made in Flask](https://github.com/JakubBialoskorski/notty) with Aurora support
 * [Music app for kids](https://apps.apple.com/us/app/dot-xylophone/id1544977962), compatible with Apple Silicon chips
 * Minimalistic [velocity measurement](https://apps.apple.com/us/app/minspeed/id6470914321) for iOS
