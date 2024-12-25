@@ -25,8 +25,8 @@
 ### Few of my projects
 * [Terraform module for AWS VPC](https://registry.terraform.io/modules/JakubBialoskorski/vpc/aws/latest) for dedicated staging environment in public subnets
 * [Notes app made in Flask](https://github.com/JakubBialoskorski/notty) with Aurora support
-* [Music app for kids]([https://apps.apple.com/us/app/dot-xylophone/id1544977962](https://github.com/JakubBialoskorski/Cymbalki)), compatible with Apple Silicon chips
-* Minimalistic [velocity measurement]([https://apps.apple.com/us/app/minspeed/id6470914321](https://github.com/JakubBialoskorski/MinSpeed)) for iOS
+* [Music app for kids](https://github.com/JakubBialoskorski/Cymbalki), compatible with Apple Silicon chips
+* Minimalistic [velocity measurement](https://github.com/JakubBialoskorski/MinSpeed) for iOS
 * [Traffic jam avoidance](https://github.com/JakubBialoskorski/traffic.git) repo, with Lambda + Twilio support that can ping you before you're struck for hours
 * [OpenAI DALL-E 2 image generator](https://github.com/JakubBialoskorski/dalle-api) written in JavaScript
 * [Portfolio page](https://github.com/JakubBialoskorski/bialoskorski-eu) made in Next.js
