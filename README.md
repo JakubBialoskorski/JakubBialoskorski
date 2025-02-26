@@ -24,7 +24,7 @@
 
 ### Few of my projects
 * [Terraform module for AWS VPC](https://registry.terraform.io/modules/JakubBialoskorski/vpc/aws/latest) for dedicated staging environment in public subnets
-* [RawLinux](https://github.com/JakubBialoskorski/rawlinux) - custom Linux image under 50MBs
+* [RawLinux](https://github.com/JakubBialoskorski/rawlinux) - custom Linux image under 70MBs with fully working network
 * [Traffic jam avoidance](https://github.com/JakubBialoskorski/traffic.git) repo, with Lambda + Twilio support that can ping you before you're struck for hours
 * [OpenAI DALL-E 2 image generator](https://github.com/JakubBialoskorski/dalle-api) written in JavaScript
 * [Portfolio page](https://github.com/JakubBialoskorski/bialoskorski-eu) made in Next.js
