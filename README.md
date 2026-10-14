@@ -2,7 +2,7 @@
 
 ### Few facts about me:
 
-| Platform / MLOps                                                                                                                     | AI / LLM                                                                | Programmer                                            |
+| Platform / MLOps                                                                                                                     | AI                                                                      | Programmer                                            |
 |--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------|
 | ![Docker](assets/icons/docker.png) Docker                                                                                            | ![NVIDIA](assets/icons/nvidia.png) Local LLMs on CUDA (llama.cpp, GGUF) | ![Python](assets/icons/python.png) Python             |
 | ![K8S](assets/icons/kubernetes.png) K8S                                                                                              | ![Ollama](assets/icons/ollama.png) Ollama                               | ![Go](assets/icons/go.png) Go                         |
